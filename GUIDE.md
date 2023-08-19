@@ -35,13 +35,13 @@ Welcome to the Sorting Visualizer Project! In this step-by-step guide, we will w
 that visualizes various sorting algorithms. By the end of this project, you'll have developed a sorting visualizer that not 
 only demonstrates the power of sorting algorithms but also enhances your skills in web development and algorithm visualization.
 
-### 1.1 Why Sorting Algorithms?
+### 1.1 Why Sorting Algorithms? <a name="why-sorting-algorithms?"></a>
 
 Sorting algorithms play a crucial role in computer science and programming. 
 They are essential tools for organizing data efficiently, which is a fundamental task in various applications, from databases to user interfaces. 
 Understanding how these algorithms work and visualizing their execution helps us grasp their inner workings and appreciate their efficiency.
 
-### 1.2 What You'll Learn
+### 1.2 What You'll Learn <a name="what-you'll-learn"></a>
 
 This project serves as a comprehensive learning experience, allowing you to:
 
@@ -61,7 +61,7 @@ You'll learn to think critically about optimizing processes and enhancing the us
 Before you embark on this sorting visualizer project, it's important to have a few prerequisites in place. 
 These prerequisites ensure that you have the foundational knowledge and tools needed to successfully complete the project.
 
-### 2.1 Basic Understanding of HTML, CSS, and JavaScript
+### 2.1 Basic Understanding of HTML, CSS, and JavaScript <a name="basic-understanding-of-html-css-and-javascript"></a>
 Having a basic understanding of HTML, CSS, and JavaScript is crucial for this project. 
 If you're new to web development, here's a brief overview of each technology:
 
@@ -76,7 +76,7 @@ It enables you to create dynamic elements, handle user interactions, and perform
 While you don't need to be an expert, having a basic understanding of these three technologies will make it easier for you to follow along and 
 implement the various components of the sorting visualizer.
 
-### 2.2 Text Editor or Integrated Development Environment (IDE)
+### 2.2 Text Editor or Integrated Development Environment (IDE) <a name="text-editor-or-integrated-development-environment"></a>
 You'll need a text editor or an Integrated Development Environment (IDE) to write and edit your code. Here's a bit more about each:
 
 ***Text Editor:*** A text editor is a simple tool for writing code. It provides a clean interface for writing and editing code files. 
@@ -96,11 +96,11 @@ and JavaScript.
 
 ## 3. Project Setup <a name="project-setup"></a>
 
-### 3.1 Creating the Project Directory
+### 3.1 Creating the Project Directory <a name="creating-the-project-directory"></a>
 
 Start by creating a new project directory on your computer. Name it something like "SortingVisualizer."
 
-### 3.2 Creating HTML, CSS, and JavaScript Files
+### 3.2 Creating HTML, CSS, and JavaScript Files <a name="creating-html-css-and-javascript-files"></a>
 
 Inside your project directory, create the following files:
 
@@ -113,7 +113,7 @@ Inside your project directory, create the following files:
 
 ## 4. HTML Structure <a name="html-structure"></a>
 
-### 4.1 Setting Up the Basic HTML Structure
+### 4.1 Setting Up the Basic HTML Structure <a name="setting-up-the-basic-html-structure"></a>
 
 Open the `index.html` file and add the following HTML code to set up the basic structure of your web page:
 
@@ -134,7 +134,7 @@ Open the `index.html` file and add the following HTML code to set up the basic s
 </html>
 ```
 
-### 4.2 Adding Navigation Buttons
+### 4.2 Adding Navigation Buttons <a name="adding-navigation-buttons"></a>
 
 In the index.html file, add navigation buttons to control sorting algorithms and actions:
 
@@ -165,7 +165,7 @@ In the index.html file, add navigation buttons to control sorting algorithms and
 </nav>
 ```
 
-### 4.3 Implementing Sliders
+### 4.3 Implementing Sliders <a name="implementing-sliders"></a>
 
 Add sliders to adjust array size and sorting speed:
 
@@ -195,7 +195,7 @@ Add sliders to adjust array size and sorting speed:
 
 In this section, we will focus on styling the different components of our sorting visualizer to create an appealing user interface.
 
-### 5.1 Basic Styling
+### 5.1 Basic Styling <a name="basic-styling"></a>
 
 Open the sorting.css file and add the following code to apply some basic styling to your web page:
 
@@ -238,7 +238,7 @@ h1 {
 }
 ```
 
-### 5.2 Styling Navigation Buttons
+### 5.2 Styling Navigation Buttons <a name="styling-navigation-buttons"></a>
 
 Now, let's add some styles to the navigation buttons for better visibility:
 
@@ -261,8 +261,8 @@ Now, let's add some styles to the navigation buttons for better visibility:
 }
 ```
 
-### 5.3 Styling Bars Container
-
+### 5.3 Styling Bars Container <a name="styling-bars-container"></a>
+ 
 Finally, let's style the container that holds the bars representing the array elements:
 
 ```css
