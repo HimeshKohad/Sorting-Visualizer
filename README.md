@@ -68,3 +68,9 @@ Contributions are welcome! If you'd like to contribute to the Sorting Visualizer
 Sorting Visualizer is licensed under the MIT License. See the [LICENSE](https://github.com/HimeshKohad/Sorting-Visualizer/blob/main/LICENSE) file for more information.
 
 Thank you for exploring the Sorting Visualizer project. We hope this tool helps you better understand sorting algorithms and their behaviors.
+
+---
+
+### Project Guide:
+
+For detailed instructions on creating this project step by step, check out our [GUIDE.md](GUIDE.md) file.
