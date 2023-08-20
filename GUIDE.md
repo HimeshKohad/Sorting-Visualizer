@@ -45,13 +45,13 @@ Understanding how these algorithms work and visualizing their execution helps us
 
 This project serves as a comprehensive learning experience, allowing you to:
 
-***Apply HTML, CSS, and JavaScript Skills:*** You'll get hands-on practice with web development technologies. 
+- ***Apply HTML, CSS, and JavaScript Skills:*** You'll get hands-on practice with web development technologies. 
 This project involves creating the user interface, implementing algorithms, and adding interactivity to your web application.
 
-***Understand Sorting Algorithms:*** You'll gain a deeper understanding of popular sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, 
+- ***Understand Sorting Algorithms:*** You'll gain a deeper understanding of popular sorting algorithms such as Bubble Sort, Selection Sort, Insertion Sort, 
 Quick Sort, and Merge Sort. Through visualization, you'll witness how these algorithms rearrange elements to achieve the desired sorted order.
 
-***Enhance Problem-Solving Skills:*** Implementing and visualizing algorithms improve your problem-solving skills. 
+- ***Enhance Problem-Solving Skills:*** Implementing and visualizing algorithms improve your problem-solving skills. 
 You'll learn to think critically about optimizing processes and enhancing the user experience.
 
 <hr>
@@ -65,12 +65,12 @@ These prerequisites ensure that you have the foundational knowledge and tools ne
 Having a basic understanding of HTML, CSS, and JavaScript is crucial for this project. 
 If you're new to web development, here's a brief overview of each technology:
 
-***HTML (HyperText Markup Language):*** HTML is the backbone of any web page. It's used to structure the content of a webpage, defining headings, 
+- ***HTML (HyperText Markup Language):*** HTML is the backbone of any web page. It's used to structure the content of a webpage, defining headings, 
 paragraphs, images, links, and more.
 
-***CSS (Cascading Style Sheets):*** CSS is used to style the HTML content, controlling the layout, colors, fonts, and overall visual appearance of a webpage.
+- ***CSS (Cascading Style Sheets):*** CSS is used to style the HTML content, controlling the layout, colors, fonts, and overall visual appearance of a webpage.
 
-***JavaScript:*** JavaScript is a programming language that adds interactivity and functionality to web pages. 
+- ***JavaScript:*** JavaScript is a programming language that adds interactivity and functionality to web pages. 
 It enables you to create dynamic elements, handle user interactions, and perform complex operations.
 
 While you don't need to be an expert, having a basic understanding of these three technologies will make it easier for you to follow along and 
@@ -79,10 +79,10 @@ implement the various components of the sorting visualizer.
 ### 2.2 Text Editor or Integrated Development Environment (IDE) <a name="text-editor-or-integrated-development-environment"></a>
 You'll need a text editor or an Integrated Development Environment (IDE) to write and edit your code. Here's a bit more about each:
 
-***Text Editor:*** A text editor is a simple tool for writing code. It provides a clean interface for writing and editing code files. 
+- ***Text Editor:*** A text editor is a simple tool for writing code. It provides a clean interface for writing and editing code files. 
 Popular text editors include Visual Studio Code, Sublime Text, and Atom.
 
-***IDE (Integrated Development Environment):*** An IDE is a more comprehensive software suite that includes not only a text editor but also features 
+- ***IDE (Integrated Development Environment):*** An IDE is a more comprehensive software suite that includes not only a text editor but also features 
 like code debugging, version control integration, and more. Examples of popular IDEs include Visual Studio, JetBrains IntelliJ IDEA, and Eclipse.
 
 Having a text editor or IDE of your choice will make the coding process smoother and more efficient. 
@@ -385,7 +385,7 @@ In this section, you'll learn how to implement various sorting algorithms to vis
 
   - Selection Sort divides the input list into two parts: the sorted sublist and the unsorted sublist.
   - The algorithm repeatedly selects the smallest element from the unsorted sublist and swaps it with the first element in the unsorted sublist.
-  - 
+   
 2. Implementing Selection Sort:
 
   - Create a new JavaScript file named selection.js.
